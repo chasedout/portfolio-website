@@ -1,0 +1,14 @@
+{
+  "name": "coding-2019",
+  "version": "1.0.0",
+  "description": "Coding Folder",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "author": "Che Stout",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^4.11.0"
+  }
+}
