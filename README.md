@@ -1,0 +1,1 @@
+Portfolio Website to display Web and Graphic design experience. Along with some other stuff. Add resume, portfolio, work examples, and whatever you can. Do some mockups first, then begin to really flesh out the page.
